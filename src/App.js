@@ -53,7 +53,7 @@ function SignIn() {
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>Do not violate the community guidelines or you will be banned for life!</p>
+      <p>荒らしや誹謗中傷等の悪質な行為を行うユーザーは直ちにアカウントを凍結いたします</p>
     </>
   )
 
